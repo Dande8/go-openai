@@ -1,3 +1,3 @@
-module github.com/dande8/go-openai
+module github.com/dande-x/go-openai
 
 go 1.18
